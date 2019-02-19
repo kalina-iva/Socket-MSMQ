@@ -1,0 +1,6 @@
+E:\Учеба\ТРРП\2\laba2\laba2\bin\Debug\laba2.exe.config
+E:\Учеба\ТРРП\2\laba2\laba2\bin\Debug\laba2.exe
+E:\Учеба\ТРРП\2\laba2\laba2\bin\Debug\laba2.pdb
+E:\Учеба\ТРРП\2\laba2\laba2\obj\Debug\laba2.csprojResolveAssemblyReference.cache
+E:\Учеба\ТРРП\2\laba2\laba2\obj\Debug\laba2.exe
+E:\Учеба\ТРРП\2\laba2\laba2\obj\Debug\laba2.pdb

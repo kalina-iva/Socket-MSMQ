@@ -1,0 +1,745 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Table>
+    <Country>Испания</Country>
+    <City>Мадрид</City>
+    <Name-stadium>Сантьяго Бернабеу</Name-stadium>
+    <Capacity>81044</Capacity>
+    <Name-club>Реал Мадрид</Name-club>
+    <Coach>Хулен Лопетеги</Coach>
+    <Founded>1902-03-06T00:00:00+05:00</Founded>
+    <Rating-UEFA>1</Rating-UEFA>
+    <Surname-player>Варан</Surname-player>
+    <Name-player>Рафаэль</Name-player>
+    <Date-of-birth>1993-04-25T00:00:00+06:00</Date-of-birth>
+    <Age>25</Age>
+    <Growth>190</Growth>
+    <Weight>85</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Мадрид</City>
+    <Name-stadium>Сантьяго Бернабеу</Name-stadium>
+    <Capacity>81044</Capacity>
+    <Name-club>Реал Мадрид</Name-club>
+    <Coach>Хулен Лопетеги</Coach>
+    <Founded>1902-03-06T00:00:00+05:00</Founded>
+    <Rating-UEFA>1</Rating-UEFA>
+    <Surname-player>Рамос</Surname-player>
+    <Name-player>Серхио</Name-player>
+    <Date-of-birth>1986-03-30T00:00:00+05:00</Date-of-birth>
+    <Age>32</Age>
+    <Growth>183</Growth>
+    <Weight>81</Weight>
+    <Number-of-matches>9</Number-of-matches>
+    <Number-of-goals>2</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Мадрид</City>
+    <Name-stadium>Сантьяго Бернабеу</Name-stadium>
+    <Capacity>81044</Capacity>
+    <Name-club>Реал Мадрид</Name-club>
+    <Coach>Хулен Лопетеги</Coach>
+    <Founded>1902-03-06T00:00:00+05:00</Founded>
+    <Rating-UEFA>1</Rating-UEFA>
+    <Surname-player>Модрич</Surname-player>
+    <Name-player>Лука</Name-player>
+    <Date-of-birth>1985-09-09T00:00:00+06:00</Date-of-birth>
+    <Age>33</Age>
+    <Growth>173</Growth>
+    <Weight>65</Weight>
+    <Number-of-matches>9</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Мадрид</City>
+    <Name-stadium>Сантьяго Бернабеу</Name-stadium>
+    <Capacity>81044</Capacity>
+    <Name-club>Реал Мадрид</Name-club>
+    <Coach>Хулен Лопетеги</Coach>
+    <Founded>1902-03-06T00:00:00+05:00</Founded>
+    <Rating-UEFA>1</Rating-UEFA>
+    <Surname-player>Бейл</Surname-player>
+    <Name-player>Гарет</Name-player>
+    <Date-of-birth>1989-07-16T00:00:00+06:00</Date-of-birth>
+    <Age>29</Age>
+    <Growth>183</Growth>
+    <Weight>74</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>3</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Мадрид</City>
+    <Name-stadium>Сантьяго Бернабеу</Name-stadium>
+    <Capacity>81044</Capacity>
+    <Name-club>Реал Мадрид</Name-club>
+    <Coach>Хулен Лопетеги</Coach>
+    <Founded>1902-03-06T00:00:00+05:00</Founded>
+    <Rating-UEFA>1</Rating-UEFA>
+    <Surname-player>Навас</Surname-player>
+    <Name-player>Кейлор
+Кейлор</Name-player>
+    <Date-of-birth>1986-12-15T00:00:00+05:00</Date-of-birth>
+    <Age>32</Age>
+    <Growth>186</Growth>
+    <Weight>78</Weight>
+    <Number-of-matches>2</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Вратарь</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Барселона</City>
+    <Name-stadium>Камп Ноу</Name-stadium>
+    <Capacity>99354</Capacity>
+    <Name-club>Барселона</Name-club>
+    <Coach>Эрнесто Вальверде</Coach>
+    <Founded>1899-11-29T00:00:00+05:00</Founded>
+    <Rating-UEFA>4</Rating-UEFA>
+    <Surname-player>Пике</Surname-player>
+    <Name-player>Жерар</Name-player>
+    <Date-of-birth>1987-02-02T00:00:00+05:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>192</Growth>
+    <Weight>85</Weight>
+    <Number-of-matches>9</Number-of-matches>
+    <Number-of-goals>1</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Барселона</City>
+    <Name-stadium>Камп Ноу</Name-stadium>
+    <Capacity>99354</Capacity>
+    <Name-club>Барселона</Name-club>
+    <Coach>Эрнесто Вальверде</Coach>
+    <Founded>1899-11-29T00:00:00+05:00</Founded>
+    <Rating-UEFA>4</Rating-UEFA>
+    <Surname-player>Ракитич</Surname-player>
+    <Name-player>Иван</Name-player>
+    <Date-of-birth>1988-03-10T00:00:00+05:00</Date-of-birth>
+    <Age>30</Age>
+    <Growth>184</Growth>
+    <Weight>80</Weight>
+    <Number-of-matches>9</Number-of-matches>
+    <Number-of-goals>2</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Барселона</City>
+    <Name-stadium>Камп Ноу</Name-stadium>
+    <Capacity>99354</Capacity>
+    <Name-club>Барселона</Name-club>
+    <Coach>Эрнесто Вальверде</Coach>
+    <Founded>1899-11-29T00:00:00+05:00</Founded>
+    <Rating-UEFA>4</Rating-UEFA>
+    <Surname-player>Видаль</Surname-player>
+    <Name-player>Артуро</Name-player>
+    <Date-of-birth>1987-05-22T00:00:00+06:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>180</Growth>
+    <Weight>75</Weight>
+    <Number-of-matches>6</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Барселона</City>
+    <Name-stadium>Камп Ноу</Name-stadium>
+    <Capacity>99354</Capacity>
+    <Name-club>Барселона</Name-club>
+    <Coach>Эрнесто Вальверде</Coach>
+    <Founded>1899-11-29T00:00:00+05:00</Founded>
+    <Rating-UEFA>4</Rating-UEFA>
+    <Surname-player>Месси</Surname-player>
+    <Name-player>Лионель</Name-player>
+    <Date-of-birth>1987-06-24T00:00:00+06:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>169</Growth>
+    <Weight>67</Weight>
+    <Number-of-matches>9</Number-of-matches>
+    <Number-of-goals>7</Number-of-goals>
+    <Position>Нападающий</Position>
+  </Table>
+  <Table>
+    <Country>Испания</Country>
+    <City>Барселона</City>
+    <Name-stadium>Камп Ноу</Name-stadium>
+    <Capacity>99354</Capacity>
+    <Name-club>Барселона</Name-club>
+    <Coach>Эрнесто Вальверде</Coach>
+    <Founded>1899-11-29T00:00:00+05:00</Founded>
+    <Rating-UEFA>4</Rating-UEFA>
+    <Surname-player>Суарес</Surname-player>
+    <Name-player>Луис</Name-player>
+    <Date-of-birth>1987-01-24T00:00:00+05:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>181</Growth>
+    <Weight>81</Weight>
+    <Number-of-matches>9</Number-of-matches>
+    <Number-of-goals>4</Number-of-goals>
+    <Position>Нападающий</Position>
+  </Table>
+  <Table>
+    <Country>Англия</Country>
+    <City>Стретфорд</City>
+    <Name-stadium>Олд Траффорд</Name-stadium>
+    <Capacity>74994</Capacity>
+    <Name-club>Манчестер Юнайтед</Name-club>
+    <Coach>Жозе Моуринью</Coach>
+    <Founded>1878-03-05T00:00:00+05:00</Founded>
+    <Rating-UEFA>16</Rating-UEFA>
+    <Surname-player>Валенсия</Surname-player>
+    <Name-player>Антонио</Name-player>
+    <Date-of-birth>1985-08-04T00:00:00+06:00</Date-of-birth>
+    <Age>33</Age>
+    <Growth>180</Growth>
+    <Weight>78</Weight>
+    <Number-of-matches>4</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Англия</Country>
+    <City>Стретфорд</City>
+    <Name-stadium>Олд Траффорд</Name-stadium>
+    <Capacity>74994</Capacity>
+    <Name-club>Манчестер Юнайтед</Name-club>
+    <Coach>Жозе Моуринью</Coach>
+    <Founded>1878-03-05T00:00:00+05:00</Founded>
+    <Rating-UEFA>16</Rating-UEFA>
+    <Surname-player>Ромеро</Surname-player>
+    <Name-player>Серхио</Name-player>
+    <Date-of-birth>1987-02-22T00:00:00+05:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>192</Growth>
+    <Weight>88</Weight>
+    <Number-of-matches>0</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Вратарь</Position>
+  </Table>
+  <Table>
+    <Country>Англия</Country>
+    <City>Стретфорд</City>
+    <Name-stadium>Олд Траффорд</Name-stadium>
+    <Capacity>74994</Capacity>
+    <Name-club>Манчестер Юнайтед</Name-club>
+    <Coach>Жозе Моуринью</Coach>
+    <Founded>1878-03-05T00:00:00+05:00</Founded>
+    <Rating-UEFA>16</Rating-UEFA>
+    <Surname-player>Погба</Surname-player>
+    <Name-player>Поль</Name-player>
+    <Date-of-birth>1993-03-15T00:00:00+05:00</Date-of-birth>
+    <Age>25</Age>
+    <Growth>186</Growth>
+    <Weight>80</Weight>
+    <Number-of-matches>9</Number-of-matches>
+    <Number-of-goals>2</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Англия</Country>
+    <City>Стретфорд</City>
+    <Name-stadium>Олд Траффорд</Name-stadium>
+    <Capacity>74994</Capacity>
+    <Name-club>Манчестер Юнайтед</Name-club>
+    <Coach>Жозе Моуринью</Coach>
+    <Founded>1878-03-05T00:00:00+05:00</Founded>
+    <Rating-UEFA>16</Rating-UEFA>
+    <Surname-player>Санчес</Surname-player>
+    <Name-player>Алексис</Name-player>
+    <Date-of-birth>1988-12-19T00:00:00+05:00</Date-of-birth>
+    <Age>30</Age>
+    <Growth>170</Growth>
+    <Weight>62</Weight>
+    <Number-of-matches>7</Number-of-matches>
+    <Number-of-goals>1</Number-of-goals>
+    <Position>Нападающий</Position>
+  </Table>
+  <Table>
+    <Country>Англия</Country>
+    <City>Стретфорд</City>
+    <Name-stadium>Олд Траффорд</Name-stadium>
+    <Capacity>74994</Capacity>
+    <Name-club>Манчестер Юнайтед</Name-club>
+    <Coach>Жозе Моуринью</Coach>
+    <Founded>1878-03-05T00:00:00+05:00</Founded>
+    <Rating-UEFA>16</Rating-UEFA>
+    <Surname-player>Феллайни</Surname-player>
+    <Name-player>Маруан</Name-player>
+    <Date-of-birth>1987-11-22T00:00:00+05:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>194</Growth>
+    <Weight>85</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Германия</Country>
+    <City>Мюнхен</City>
+    <Name-stadium>Альянц Арена</Name-stadium>
+    <Capacity>75000</Capacity>
+    <Name-club>Бавария</Name-club>
+    <Coach>Юпп Хайнкес</Coach>
+    <Founded>1900-02-27T00:00:00+05:00</Founded>
+    <Rating-UEFA>3</Rating-UEFA>
+    <Surname-player>Нойер</Surname-player>
+    <Name-player>Мануэль</Name-player>
+    <Date-of-birth>1986-03-27T00:00:00+05:00</Date-of-birth>
+    <Age>32</Age>
+    <Growth>193</Growth>
+    <Weight>92</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Вратарь</Position>
+  </Table>
+  <Table>
+    <Country>Германия</Country>
+    <City>Мюнхен</City>
+    <Name-stadium>Альянц Арена</Name-stadium>
+    <Capacity>75000</Capacity>
+    <Name-club>Бавария</Name-club>
+    <Coach>Юпп Хайнкес</Coach>
+    <Founded>1900-02-27T00:00:00+05:00</Founded>
+    <Rating-UEFA>3</Rating-UEFA>
+    <Surname-player>Хуммельс</Surname-player>
+    <Name-player>Матс</Name-player>
+    <Date-of-birth>1988-12-16T00:00:00+05:00</Date-of-birth>
+    <Age>30</Age>
+    <Growth>192</Growth>
+    <Weight>92</Weight>
+    <Number-of-matches>5</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Германия</Country>
+    <City>Мюнхен</City>
+    <Name-stadium>Альянц Арена</Name-stadium>
+    <Capacity>75000</Capacity>
+    <Name-club>Бавария</Name-club>
+    <Coach>Юпп Хайнкес</Coach>
+    <Founded>1900-02-27T00:00:00+05:00</Founded>
+    <Rating-UEFA>3</Rating-UEFA>
+    <Surname-player>Рибери</Surname-player>
+    <Name-player>Франк</Name-player>
+    <Date-of-birth>1983-04-07T00:00:00+06:00</Date-of-birth>
+    <Age>35</Age>
+    <Growth>170</Growth>
+    <Weight>72</Weight>
+    <Number-of-matches>6</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Германия</Country>
+    <City>Мюнхен</City>
+    <Name-stadium>Альянц Арена</Name-stadium>
+    <Capacity>75000</Capacity>
+    <Name-club>Бавария</Name-club>
+    <Coach>Юпп Хайнкес</Coach>
+    <Founded>1900-02-27T00:00:00+05:00</Founded>
+    <Rating-UEFA>3</Rating-UEFA>
+    <Surname-player>Родригес</Surname-player>
+    <Name-player>Хамес</Name-player>
+    <Date-of-birth>1991-07-12T00:00:00+06:00</Date-of-birth>
+    <Age>27</Age>
+    <Growth>180</Growth>
+    <Weight>77</Weight>
+    <Number-of-matches>7</Number-of-matches>
+    <Number-of-goals>3</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Германия</Country>
+    <City>Мюнхен</City>
+    <Name-stadium>Альянц Арена</Name-stadium>
+    <Capacity>75000</Capacity>
+    <Name-club>Бавария</Name-club>
+    <Coach>Юпп Хайнкес</Coach>
+    <Founded>1900-02-27T00:00:00+05:00</Founded>
+    <Rating-UEFA>3</Rating-UEFA>
+    <Surname-player>Мюллер</Surname-player>
+    <Name-player>Томас</Name-player>
+    <Date-of-birth>1989-09-13T00:00:00+06:00</Date-of-birth>
+    <Age>29</Age>
+    <Growth>186</Growth>
+    <Weight>75</Weight>
+    <Number-of-matches>7</Number-of-matches>
+    <Number-of-goals>2</Number-of-goals>
+    <Position>Нападающий</Position>
+  </Table>
+  <Table>
+    <Country>Франция</Country>
+    <City>Париж</City>
+    <Name-stadium>Парк де Пренс</Name-stadium>
+    <Capacity>49691</Capacity>
+    <Name-club>Пари Сен-Жермен</Name-club>
+    <Coach>Томас Тухель</Coach>
+    <Founded>1970-08-12T00:00:00+06:00</Founded>
+    <Rating-UEFA>7</Rating-UEFA>
+    <Surname-player>Буффон</Surname-player>
+    <Name-player>Джанлуиджи</Name-player>
+    <Date-of-birth>1978-01-28T00:00:00+05:00</Date-of-birth>
+    <Age>40</Age>
+    <Growth>191</Growth>
+    <Weight>83</Weight>
+    <Number-of-matches>5</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Вратарь</Position>
+  </Table>
+  <Table>
+    <Country>Франция</Country>
+    <City>Париж</City>
+    <Name-stadium>Парк де Пренс</Name-stadium>
+    <Capacity>49691</Capacity>
+    <Name-club>Пари Сен-Жермен</Name-club>
+    <Coach>Томас Тухель</Coach>
+    <Founded>1970-08-12T00:00:00+06:00</Founded>
+    <Rating-UEFA>7</Rating-UEFA>
+    <Surname-player>Силва</Surname-player>
+    <Name-player>Тиаго</Name-player>
+    <Date-of-birth>1984-09-22T00:00:00+06:00</Date-of-birth>
+    <Age>34</Age>
+    <Growth>183</Growth>
+    <Weight>79</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Франция</Country>
+    <City>Париж</City>
+    <Name-stadium>Парк де Пренс</Name-stadium>
+    <Capacity>49691</Capacity>
+    <Name-club>Пари Сен-Жермен</Name-club>
+    <Coach>Томас Тухель</Coach>
+    <Founded>1970-08-12T00:00:00+06:00</Founded>
+    <Rating-UEFA>7</Rating-UEFA>
+    <Surname-player>Дракслер</Surname-player>
+    <Name-player>Юлиан</Name-player>
+    <Date-of-birth>1993-09-20T00:00:00+06:00</Date-of-birth>
+    <Age>25</Age>
+    <Growth>185</Growth>
+    <Weight>74</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>2</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Франция</Country>
+    <City>Париж</City>
+    <Name-stadium>Парк де Пренс</Name-stadium>
+    <Capacity>49691</Capacity>
+    <Name-club>Пари Сен-Жермен</Name-club>
+    <Coach>Томас Тухель</Coach>
+    <Founded>1970-08-12T00:00:00+06:00</Founded>
+    <Rating-UEFA>7</Rating-UEFA>
+    <Surname-player>Кавани</Surname-player>
+    <Name-player>Эдинсон</Name-player>
+    <Date-of-birth>1987-02-14T00:00:00+05:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>184</Growth>
+    <Weight>74</Weight>
+    <Number-of-matches>7</Number-of-matches>
+    <Number-of-goals>5</Number-of-goals>
+    <Position>Нападающий</Position>
+  </Table>
+  <Table>
+    <Country>Франция</Country>
+    <City>Париж</City>
+    <Name-stadium>Парк де Пренс</Name-stadium>
+    <Capacity>49691</Capacity>
+    <Name-club>Пари Сен-Жермен</Name-club>
+    <Coach>Томас Тухель</Coach>
+    <Founded>1970-08-12T00:00:00+06:00</Founded>
+    <Rating-UEFA>7</Rating-UEFA>
+    <Surname-player>Алвес</Surname-player>
+    <Name-player>Дани</Name-player>
+    <Date-of-birth>1983-05-06T00:00:00+06:00</Date-of-birth>
+    <Age>35</Age>
+    <Growth>173</Growth>
+    <Weight>64</Weight>
+    <Number-of-matches>0</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Португалия</Country>
+    <City>Порту</City>
+    <Name-stadium>Драгау</Name-stadium>
+    <Capacity>52202</Capacity>
+    <Name-club>Порту</Name-club>
+    <Coach>Сержиу Консейсау</Coach>
+    <Founded>1893-09-28T00:00:00+06:00</Founded>
+    <Rating-UEFA>12</Rating-UEFA>
+    <Surname-player>Касильяс</Surname-player>
+    <Name-player>Икер</Name-player>
+    <Date-of-birth>1981-05-20T00:00:00+06:00</Date-of-birth>
+    <Age>37</Age>
+    <Growth>182</Growth>
+    <Weight>86</Weight>
+    <Number-of-matches>7</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Вратарь</Position>
+  </Table>
+  <Table>
+    <Country>Португалия</Country>
+    <City>Порту</City>
+    <Name-stadium>Драгау</Name-stadium>
+    <Capacity>52202</Capacity>
+    <Name-club>Порту</Name-club>
+    <Coach>Сержиу Консейсау</Coach>
+    <Founded>1893-09-28T00:00:00+06:00</Founded>
+    <Rating-UEFA>12</Rating-UEFA>
+    <Surname-player>Перейра</Surname-player>
+    <Name-player>Макси</Name-player>
+    <Date-of-birth>1984-06-08T00:00:00+06:00</Date-of-birth>
+    <Age>34</Age>
+    <Growth>173</Growth>
+    <Weight>73</Weight>
+    <Number-of-matches>7</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Португалия</Country>
+    <City>Порту</City>
+    <Name-stadium>Драгау</Name-stadium>
+    <Capacity>52202</Capacity>
+    <Name-club>Порту</Name-club>
+    <Coach>Сержиу Консейсау</Coach>
+    <Founded>1893-09-28T00:00:00+06:00</Founded>
+    <Rating-UEFA>12</Rating-UEFA>
+    <Surname-player>Перейра</Surname-player>
+    <Name-player>Данилу</Name-player>
+    <Date-of-birth>1991-09-09T00:00:00+06:00</Date-of-birth>
+    <Age>27</Age>
+    <Growth>187</Growth>
+    <Weight>65</Weight>
+    <Number-of-matches>3</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Португалия</Country>
+    <City>Порту</City>
+    <Name-stadium>Драгау</Name-stadium>
+    <Capacity>52202</Capacity>
+    <Name-club>Порту</Name-club>
+    <Coach>Сержиу Консейсау</Coach>
+    <Founded>1893-09-28T00:00:00+06:00</Founded>
+    <Rating-UEFA>12</Rating-UEFA>
+    <Surname-player>Браими</Surname-player>
+    <Name-player>Ясин</Name-player>
+    <Date-of-birth>1990-02-08T00:00:00+05:00</Date-of-birth>
+    <Age>28</Age>
+    <Growth>172</Growth>
+    <Weight>68</Weight>
+    <Number-of-matches>7</Number-of-matches>
+    <Number-of-goals>2</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Россия</Country>
+    <City>Санкт-Петербург</City>
+    <Name-stadium>Санкт-Петербург Арена</Name-stadium>
+    <Capacity>64468</Capacity>
+    <Name-club>Зенит</Name-club>
+    <Coach>Сергей Семак</Coach>
+    <Founded>1925-05-25T00:00:00+06:00</Founded>
+    <Rating-UEFA>17</Rating-UEFA>
+    <Surname-player>Лодыгин</Surname-player>
+    <Name-player>Юрий</Name-player>
+    <Date-of-birth>1990-05-26T00:00:00+06:00</Date-of-birth>
+    <Age>28</Age>
+    <Growth>185</Growth>
+    <Weight>82</Weight>
+    <Number-of-matches>0</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Вратарь</Position>
+  </Table>
+  <Table>
+    <Country>Россия</Country>
+    <City>Санкт-Петербург</City>
+    <Name-stadium>Санкт-Петербург Арена</Name-stadium>
+    <Capacity>64468</Capacity>
+    <Name-club>Зенит</Name-club>
+    <Coach>Сергей Семак</Coach>
+    <Founded>1925-05-25T00:00:00+06:00</Founded>
+    <Rating-UEFA>17</Rating-UEFA>
+    <Surname-player>Смольников</Surname-player>
+    <Name-player>Игорь</Name-player>
+    <Date-of-birth>1988-08-08T00:00:00+06:00</Date-of-birth>
+    <Age>30</Age>
+    <Growth>178</Growth>
+    <Weight>70</Weight>
+    <Number-of-matches>11</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Россия</Country>
+    <City>Санкт-Петербург</City>
+    <Name-stadium>Санкт-Петербург Арена</Name-stadium>
+    <Capacity>64468</Capacity>
+    <Name-club>Зенит</Name-club>
+    <Coach>Сергей Семак</Coach>
+    <Founded>1925-05-25T00:00:00+06:00</Founded>
+    <Rating-UEFA>17</Rating-UEFA>
+    <Surname-player>Шатов</Surname-player>
+    <Name-player>Олег</Name-player>
+    <Date-of-birth>1990-07-29T00:00:00+06:00</Date-of-birth>
+    <Age>28</Age>
+    <Growth>173</Growth>
+    <Weight>64</Weight>
+    <Number-of-matches>7</Number-of-matches>
+    <Number-of-goals>3</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Россия</Country>
+    <City>Санкт-Петербург</City>
+    <Name-stadium>Санкт-Петербург Арена</Name-stadium>
+    <Capacity>64468</Capacity>
+    <Name-club>Зенит</Name-club>
+    <Coach>Сергей Семак</Coach>
+    <Founded>1925-05-25T00:00:00+06:00</Founded>
+    <Rating-UEFA>17</Rating-UEFA>
+    <Surname-player>Жирков</Surname-player>
+    <Name-player>Юрий</Name-player>
+    <Date-of-birth>1983-08-20T00:00:00+06:00</Date-of-birth>
+    <Age>35</Age>
+    <Growth>185</Growth>
+    <Weight>75</Weight>
+    <Number-of-matches>0</Number-of-matches>
+    <Number-of-goals>0</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Россия</Country>
+    <City>Санкт-Петербург</City>
+    <Name-stadium>Санкт-Петербург Арена</Name-stadium>
+    <Capacity>64468</Capacity>
+    <Name-club>Зенит</Name-club>
+    <Coach>Сергей Семак</Coach>
+    <Founded>1925-05-25T00:00:00+06:00</Founded>
+    <Rating-UEFA>17</Rating-UEFA>
+    <Surname-player>Дзюба</Surname-player>
+    <Name-player>Артем</Name-player>
+    <Date-of-birth>1988-08-22T00:00:00+06:00</Date-of-birth>
+    <Age>30</Age>
+    <Growth>194</Growth>
+    <Weight>88</Weight>
+    <Number-of-matches>11</Number-of-matches>
+    <Number-of-goals>5</Number-of-goals>
+    <Position>Нападающий</Position>
+  </Table>
+  <Table>
+    <Country>Италия</Country>
+    <City>Турин</City>
+    <Name-stadium>Альянц Стадиум</Name-stadium>
+    <Capacity>41507</Capacity>
+    <Name-club>Ювентус</Name-club>
+    <Coach>Массимилиано Аллегри</Coach>
+    <Founded>1897-11-01T00:00:00+05:00</Founded>
+    <Rating-UEFA>5</Rating-UEFA>
+    <Surname-player>Бонуччи</Surname-player>
+    <Name-player>Леонардо</Name-player>
+    <Date-of-birth>1987-05-01T00:00:00+06:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>190</Growth>
+    <Weight>82</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>1</Number-of-goals>
+    <Position>Защитник</Position>
+  </Table>
+  <Table>
+    <Country>Италия</Country>
+    <City>Турин</City>
+    <Name-stadium>Альянц Стадиум</Name-stadium>
+    <Capacity>41507</Capacity>
+    <Name-club>Ювентус</Name-club>
+    <Coach>Массимилиано Аллегри</Coach>
+    <Founded>1897-11-01T00:00:00+05:00</Founded>
+    <Rating-UEFA>5</Rating-UEFA>
+    <Surname-player>Хедира</Surname-player>
+    <Name-player>Сами</Name-player>
+    <Date-of-birth>1987-04-04T00:00:00+06:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>189</Growth>
+    <Weight>83</Weight>
+    <Number-of-matches>4</Number-of-matches>
+    <Number-of-goals>1</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Италия</Country>
+    <City>Турин</City>
+    <Name-stadium>Альянц Стадиум</Name-stadium>
+    <Capacity>41507</Capacity>
+    <Name-club>Ювентус</Name-club>
+    <Coach>Массимилиано Аллегри</Coach>
+    <Founded>1897-11-01T00:00:00+05:00</Founded>
+    <Rating-UEFA>5</Rating-UEFA>
+    <Surname-player>Матюиди</Surname-player>
+    <Name-player>Блез</Name-player>
+    <Date-of-birth>1987-04-09T00:00:00+06:00</Date-of-birth>
+    <Age>31</Age>
+    <Growth>175</Growth>
+    <Weight>70</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>2</Number-of-goals>
+    <Position>Полузащитник</Position>
+  </Table>
+  <Table>
+    <Country>Италия</Country>
+    <City>Турин</City>
+    <Name-stadium>Альянц Стадиум</Name-stadium>
+    <Capacity>41507</Capacity>
+    <Name-club>Ювентус</Name-club>
+    <Coach>Массимилиано Аллегри</Coach>
+    <Founded>1897-11-01T00:00:00+05:00</Founded>
+    <Rating-UEFA>5</Rating-UEFA>
+    <Surname-player>Роналду</Surname-player>
+    <Name-player>Криштиану</Name-player>
+    <Date-of-birth>1985-02-05T00:00:00+05:00</Date-of-birth>
+    <Age>33</Age>
+    <Growth>186</Growth>
+    <Weight>84</Weight>
+    <Number-of-matches>9</Number-of-matches>
+    <Number-of-goals>5</Number-of-goals>
+    <Position>Нападающий</Position>
+  </Table>
+  <Table>
+    <Country>Италия</Country>
+    <City>Турин</City>
+    <Name-stadium>Альянц Стадиум</Name-stadium>
+    <Capacity>41507</Capacity>
+    <Name-club>Ювентус</Name-club>
+    <Coach>Массимилиано Аллегри</Coach>
+    <Founded>1897-11-01T00:00:00+05:00</Founded>
+    <Rating-UEFA>5</Rating-UEFA>
+    <Surname-player>Манджукич</Surname-player>
+    <Name-player>Марио</Name-player>
+    <Date-of-birth>1986-05-21T00:00:00+06:00</Date-of-birth>
+    <Age>32</Age>
+    <Growth>187</Growth>
+    <Weight>84</Weight>
+    <Number-of-matches>8</Number-of-matches>
+    <Number-of-goals>4</Number-of-goals>
+    <Position>Нападающий</Position>
+  </Table>
+</NewDataSet>

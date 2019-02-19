@@ -1,0 +1,6 @@
+E:\Учеба\ТРРП\2\socket_server\socket_server\bin\Debug\socket_server.exe.config
+E:\Учеба\ТРРП\2\socket_server\socket_server\bin\Debug\socket_server.exe
+E:\Учеба\ТРРП\2\socket_server\socket_server\bin\Debug\socket_server.pdb
+E:\Учеба\ТРРП\2\socket_server\socket_server\obj\Debug\socket_server.csprojResolveAssemblyReference.cache
+E:\Учеба\ТРРП\2\socket_server\socket_server\obj\Debug\socket_server.exe
+E:\Учеба\ТРРП\2\socket_server\socket_server\obj\Debug\socket_server.pdb
